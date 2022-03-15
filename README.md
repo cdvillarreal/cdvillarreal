@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cdvillarreal
-- 👀 I’m interested in Programming, Design and Tech in general.
+- 👀 I’m interested in programming, design and tech in general.
 - 🌱 I’m currently learning Angular.
-- 💞️ I’m looking to collaborate on any project that help me to learn more.
+- 💞️ I'm looking to collaborate on any project that helps me learn more.
 - 📫 Please contact me at: cdvillarreal@gmail.com.
